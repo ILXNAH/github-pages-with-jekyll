@@ -1,5 +1,5 @@
 theme: minima
-title: Pineapple Pizza Codes
+title: Pineapple Pizza Codes ✨
 author: Ilona Loučková
 email: ilona.louckova@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   as I'm a passionate learner who enjoys being challenged and striving for continuous improvement.
   With 2+ years' experience; networking and technical support,
   not too long ago I started to direct my attention towards system administration and coding.
-  Highly organized, detail-oriented, and I work from home in my yoga pants. ✨
+  ... Let's see where this thing goes.
 
 # social links
 twitter_username: IlonaLouckova # DO NOT include the @ character, or else the build will fail!
