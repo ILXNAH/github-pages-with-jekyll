@@ -1,13 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: PineapplePizza Codes
+author: Ilona Loučková
+email: ilona.louckova@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  24-year-old techie based in Prague, Czechia. 
+  I studied economics and management before deciding to pursue a career in IT instead
+  as I'm a passionate learner who enjoys being challenged and striving for continuous improvement.
+  With 2+ years' experience; networking and technical support,
+  not too long ago I started to direct my attention towards system administration and coding.
+  Highly organized, detail-oriented, and I work from home in my yoga pants. ✨
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: IlonaLouckova # DO NOT include the @ character, or else the build will fail!
+github_username:  IlonaLouckova # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
